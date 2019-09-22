@@ -1,4 +1,4 @@
-const d3 = require('d3');
+const d3 = require('../../lib/d3/d3');
 require('../../lib/d3-flextree');
 const markmap = require('../../lib/view.mindmap');
 const parse = require('../../lib/parse.markdown');
